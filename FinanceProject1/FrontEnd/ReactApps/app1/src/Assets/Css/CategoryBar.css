@@ -1,0 +1,15 @@
+.NavContainer{
+    display: flex;   
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+
+.NavScroll {
+    white-space: nowrap;
+}
+@media(max-width:600px)
+{
+    .NavContainer{
+        overflow-x: auto;
+    }  
+}

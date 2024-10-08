@@ -1,0 +1,15 @@
+{
+    "expenditureId":"3",
+    "userId":"1",
+    "amount":50,
+    "description":"khana",
+    "category":"Food",
+    "subCategory":"lunch",
+    "location":"cafe",
+    "transactionMode":2,
+    "date":"2024-07-29",
+    "time":"10:10:00",
+    "groupId":0
+}
+
+{
